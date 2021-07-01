@@ -1,0 +1,14 @@
+
+.large-Button{
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: 600 !important;
+    background-color: #0646EB;
+    padding: 15px;
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    width: 220px;
+    border: none;
+    border-radius: 5px;
+}
